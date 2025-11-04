@@ -21,7 +21,8 @@ This system addresses critical challenges in:
 - **Frequency**: Daily trading data
 - **Content**: Date, Open, High, Low, Close, Volume, and other market indicators
 
-### Financial News Data
+### Financial News Data 
+<sup><i>(Manually extracted separately through advanced web scraping)</i></sup>
 - **Coverage**: HUL-specific news articles and market analysis
 - **Period**: Corresponding to trading data timeframe
 - **Sources**: Economic Times and other financial publications
